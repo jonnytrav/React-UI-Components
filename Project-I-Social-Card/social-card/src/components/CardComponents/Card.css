@@ -1,1 +1,21 @@
 /* All styles for your Card Components live here */
+.card-container {
+    width: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    align-content: flex-end;
+    text-decoration: none;
+    color: black;
+}
+.inner-card-container {
+    width: 80%;
+    border: 1px solid lightgrey;
+    margin: 1.5%;
+}
+.react-img {
+    width: 100%;
+}
+.card-content {
+    box-sizing: border-box;
+    padding: 1%;
+}
