@@ -1,0 +1,20 @@
+.default-button {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 24.9%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    border: 1px solid grey;
+}
+.number-button {
+    width: 24.9%;
+}
+.action-button {
+    background-color: red;
+    width: 24.9%;
+}
+.wide-button {
+    width: 74.9%;
+    background-color: white;
+}
